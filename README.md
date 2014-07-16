@@ -2,4 +2,4 @@ datasciencecoursera
 ===================
 
 
-This is the project for working on the Coursera Data Scientists Toolbox course.
+This is my project for working on the Coursera Data Scientist's Toolbox course.
